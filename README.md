@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 Connect with me on the web: 
 <p align="left">
-<a href="http://twitter.com/kaaquist" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="20" /></a>
-<a href="http://linkedin.com/in/kaaquist" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="20" /></a>
-<a href="http://instagram.com/kaaquist" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="20" /></a>
+<a href="http://twitter.com/kaaquist" target="blank"><img align="center" src="./img/twitter.png" title = "Twitter" alt="" height="20" /></a>
+<a href="http://linkedin.com/in/kaaquist" target="blank"><img align="center" src="./img/transparent-Linkedin-logo-icon.png" alt="" height="20" /></a>
+<a href="http://instagram.com/kaaquist" target="blank"><img align="center" src="./img/instagram.png" alt="" height="20" /></a>
+<a href="http://gitlab.com/kaaquist" target="blank"><img align="center" src="./img/transparent-gitlab-logo-icon.png" alt="" height="20" /></a>
+<a href="https://www.codewars.com/users/kaaquist" target="blank"><img align="center" src="./img/codewars.png" alt="" height="20" /></a>
 </p>
