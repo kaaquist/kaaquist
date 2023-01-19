@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello, Mr fancy pants 👋
+
+My Name is Kasper you have arrived to my special place on Github.  
 
 <!--
 **kaaquist/kaaquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaaquist&show_icons=true&theme=transparent)  
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kaaquist&theme=transparent" width="495">
+
+
+Connect with me on the web: 
+<p align="left">
+<a href="http://twitter.com/kaaquist" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="20" /></a>
+<a href="http://linkedin.com/in/kaaquist" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="20" /></a>
+<a href="http://instagram.com/kaaquist" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="20" /></a>
+</p>
