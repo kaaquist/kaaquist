@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaaquist&show_icons=true&theme=transparent)  
+![Anurag's GitHub stats](https://github-readme-stats-rongronggg9.vercel.app/api?username=kaaquist&show_icons=true&theme=transparent)  
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kaaquist&theme=transparent" width="495">
 
