@@ -31,6 +31,8 @@ Connect with me on the web:
 <a href="http://gitlab.com/kaaquist" target="blank"><img align="center" src="./img/transparent-gitlab-logo-icon.png" alt="" height="20" /></a>
 <a href="https://www.codewars.com/users/kaaquist" target="blank"><img align="center" src="./img/codewars.png" alt="" height="20" /></a>
 </p>
+<br>
+<br>
 
 Nice holopin badges:
 [![@kaaquist's Holopin badges](https://holopin.me/kaaquist)](https://holopin.io/@kaaquist)
