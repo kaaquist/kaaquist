@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats-rongronggg9.vercel.app/api?username=kaaquist&show_icons=true&theme=transparent)
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaaquist&layout=compact&langs_count=10&theme=buefy"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaaquist&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-<!--<img src="https://github-readme-streak-stats.herokuapp.com?user=kaaquist&theme=transparent" width="495">-->
+<!--
+![Anurag's GitHub stats](https://github-readme-stats-rongronggg9.vercel.app/api?username=kaaquist&show_icons=true&theme=transparent)  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kaaquist&theme=transparent" width="495">-->
 </p>
 
 #### Connect with me on the web: 
